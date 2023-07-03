@@ -50,7 +50,7 @@ p.destaque {
     padding: 20px;
     text-align: center;
     background-color: #f1f1f1;
-    background-image: url(../imagens/topo.jpg);
+    background-image: url(topo.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
